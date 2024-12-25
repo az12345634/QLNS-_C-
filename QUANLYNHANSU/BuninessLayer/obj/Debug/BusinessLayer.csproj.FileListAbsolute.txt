@@ -1,0 +1,15 @@
+D:\.net\QUANLYNHANSU\BuninessLayer\bin\Debug\BuninessLayer.dll
+D:\.net\QUANLYNHANSU\BuninessLayer\bin\Debug\BuninessLayer.pdb
+D:\.net\QUANLYNHANSU\BuninessLayer\bin\Debug\DataLayer.dll
+D:\.net\QUANLYNHANSU\BuninessLayer\bin\Debug\EntityFramework.dll
+D:\.net\QUANLYNHANSU\BuninessLayer\bin\Debug\DataLayer.pdb
+D:\.net\QUANLYNHANSU\BuninessLayer\bin\Debug\DataLayer.dll.config
+D:\.net\QUANLYNHANSU\BuninessLayer\bin\Debug\EntityFramework.xml
+D:\.net\QUANLYNHANSU\BuninessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\.net\QUANLYNHANSU\BuninessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\.net\QUANLYNHANSU\BuninessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\.net\QUANLYNHANSU\BuninessLayer\obj\Debug\BuninessLayer.dll
+D:\.net\QUANLYNHANSU\BuninessLayer\obj\Debug\BuninessLayer.pdb
+D:\.net\QUANLYNHANSU\BuninessLayer\bin\Debug\BuninessLayer.dll.config
+D:\.net\QUANLYNHANSU\BuninessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\.net\QUANLYNHANSU\BuninessLayer\bin\Debug\EntityFramework.SqlServer.xml
